@@ -1,1 +1,2 @@
-# Verilog_projects
+# Verilog_project
+this is a verilog project
